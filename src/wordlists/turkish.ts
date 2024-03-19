@@ -1594,7 +1594,7 @@ susam
 suskun
 sukse
 sukut
-sul
+sulk
 sunnet
 supurge
 surahi
