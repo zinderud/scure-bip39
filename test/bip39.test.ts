@@ -56,6 +56,8 @@ describe('BIP39', () => {
     it('should create a valid menomic', () => {
        const wordsWithSameFirstFour=wordsWithSameFirstFourLetters(turkishWordlist);
       console.log("ilk dört harfi aynı olan varmı",wordsWithSameFirstFour);
+      const mnemonic = generateMnemonic(turkishWordlist, 128);
+      deepStrictEqual(validateMnemonic(mnemonic, turkishWordlist), true);
      });
   });
   describe('Mnemonic validation', () => {

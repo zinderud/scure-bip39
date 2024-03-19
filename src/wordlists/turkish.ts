@@ -114,8 +114,8 @@ armoni
 aroma
 arsa
 arsiz
-artı
-artiz
+arti
+artan
 aruz
 asansor
 asayis
@@ -1501,7 +1501,7 @@ sepet
 seramik
 sert
 serdar
-serkeş
+serkes
 sergi
 serhat
 sepken
